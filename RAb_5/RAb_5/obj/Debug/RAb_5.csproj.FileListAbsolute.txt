@@ -1,0 +1,71 @@
+H:\Практика УП 02.01\RAb_5\RAb_5\bin\Debug\RAb_5.exe.config
+H:\Практика УП 02.01\RAb_5\RAb_5\bin\Debug\RAb_5.exe
+H:\Практика УП 02.01\RAb_5\RAb_5\bin\Debug\RAb_5.pdb
+H:\Практика УП 02.01\RAb_5\RAb_5\obj\Debug\RAb_5.csproj.AssemblyReference.cache
+H:\Практика УП 02.01\RAb_5\RAb_5\obj\Debug\RAb_5.Form1.resources
+H:\Практика УП 02.01\RAb_5\RAb_5\obj\Debug\RAb_5.Form2.resources
+H:\Практика УП 02.01\RAb_5\RAb_5\obj\Debug\RAb_5.Form5.resources
+H:\Практика УП 02.01\RAb_5\RAb_5\obj\Debug\RAb_5.Properties.Resources.resources
+H:\Практика УП 02.01\RAb_5\RAb_5\obj\Debug\RAb_5.csproj.GenerateResource.cache
+H:\Практика УП 02.01\RAb_5\RAb_5\obj\Debug\RAb_5.csproj.CoreCompileInputs.cache
+H:\Практика УП 02.01\RAb_5\RAb_5\obj\Debug\RAb_5.exe
+H:\Практика УП 02.01\RAb_5\RAb_5\obj\Debug\RAb_5.pdb
+H:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\bin\Debug\RAb_5.exe.config
+H:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\bin\Debug\RAb_5.exe
+H:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\bin\Debug\RAb_5.pdb
+H:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\obj\Debug\RAb_5.csproj.AssemblyReference.cache
+H:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\obj\Debug\RAb_5.Form1.resources
+H:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\obj\Debug\RAb_5.Form2.resources
+H:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\obj\Debug\RAb_5.Form5.resources
+H:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\obj\Debug\RAb_5.Properties.Resources.resources
+H:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\obj\Debug\RAb_5.csproj.GenerateResource.cache
+H:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\obj\Debug\RAb_5.csproj.CoreCompileInputs.cache
+H:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\obj\Debug\RAb_5.exe
+H:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\obj\Debug\RAb_5.pdb
+H:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\obj\Debug\RAb_5.Form7.resources
+H:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\obj\Debug\RAb_5.Form8.resources
+E:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\bin\Debug\RAb_5.exe.config
+E:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\bin\Debug\RAb_5.exe
+E:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\bin\Debug\RAb_5.pdb
+E:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\obj\Debug\RAb_5.csproj.AssemblyReference.cache
+E:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\obj\Debug\RAb_5.csproj.SuggestedBindingRedirects.cache
+E:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\obj\Debug\RAb_5.Form1.resources
+E:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\obj\Debug\RAb_5.Form2.resources
+E:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\obj\Debug\RAb_5.Form3.resources
+E:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\obj\Debug\RAb_5.Form4.resources
+E:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\obj\Debug\RAb_5.Form5.resources
+E:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\obj\Debug\RAb_5.Form6.resources
+E:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\obj\Debug\RAb_5.Form7.resources
+E:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\obj\Debug\RAb_5.Form8.resources
+E:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\obj\Debug\RAb_5.Properties.Resources.resources
+E:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\obj\Debug\RAb_5.csproj.GenerateResource.cache
+E:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\obj\Debug\RAb_5.csproj.CoreCompileInputs.cache
+E:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\obj\Debug\RAb_5.exe
+E:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\obj\Debug\RAb_5.pdb
+H:\Практика УП 02.01\RAb_5\RAb_5\obj\Debug\RAb_5.Form7.resources
+H:\Практика УП 02.01\RAb_5\RAb_5\obj\Debug\RAb_5.Form8.resources
+H:\Практика УП 02.01\RAb_5\RAb_5\obj\Debug\RAb_5.ДобавлениеЗаявки.resources
+H:\Практика УП 02.01\RAb_5\RAb_5\obj\Debug\RAb_5.КорректировкаЗаявки.resources
+C:\Users\lizac\OneDrive\Desktop\RAb_5\RAb_5\bin\Debug\RAb_5.exe.config
+C:\Users\lizac\OneDrive\Desktop\RAb_5\RAb_5\bin\Debug\RAb_5.exe
+C:\Users\lizac\OneDrive\Desktop\RAb_5\RAb_5\bin\Debug\RAb_5.pdb
+C:\Users\lizac\OneDrive\Desktop\RAb_5\RAb_5\obj\Debug\RAb_5.csproj.AssemblyReference.cache
+C:\Users\lizac\OneDrive\Desktop\RAb_5\RAb_5\obj\Debug\RAb_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\lizac\OneDrive\Desktop\RAb_5\RAb_5\obj\Debug\RAb_5.Form1.resources
+C:\Users\lizac\OneDrive\Desktop\RAb_5\RAb_5\obj\Debug\RAb_5.Form2.resources
+C:\Users\lizac\OneDrive\Desktop\RAb_5\RAb_5\obj\Debug\RAb_5.Form5.resources
+C:\Users\lizac\OneDrive\Desktop\RAb_5\RAb_5\obj\Debug\RAb_5.ДобавлениеЗаявки.resources
+C:\Users\lizac\OneDrive\Desktop\RAb_5\RAb_5\obj\Debug\RAb_5.Form7.resources
+C:\Users\lizac\OneDrive\Desktop\RAb_5\RAb_5\obj\Debug\RAb_5.Form8.resources
+C:\Users\lizac\OneDrive\Desktop\RAb_5\RAb_5\obj\Debug\RAb_5.Properties.Resources.resources
+C:\Users\lizac\OneDrive\Desktop\RAb_5\RAb_5\obj\Debug\RAb_5.ДобавлениеКомментариев.resources
+C:\Users\lizac\OneDrive\Desktop\RAb_5\RAb_5\obj\Debug\RAb_5.КорректировкаЗаявки.resources
+C:\Users\lizac\OneDrive\Desktop\RAb_5\RAb_5\obj\Debug\RAb_5.csproj.GenerateResource.cache
+C:\Users\lizac\OneDrive\Desktop\RAb_5\RAb_5\obj\Debug\RAb_5.csproj.CoreCompileInputs.cache
+C:\Users\lizac\OneDrive\Desktop\RAb_5\RAb_5\obj\Debug\RAb_5.exe
+C:\Users\lizac\OneDrive\Desktop\RAb_5\RAb_5\obj\Debug\RAb_5.pdb
+H:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\obj\Debug\RAb_5.ДобавлениеЗаявки.resources
+H:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\obj\Debug\RAb_5.ДобавлениеКомментариев.resources
+H:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\obj\Debug\RAb_5.КорректировкаЗаявки.resources
+H:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\bin\Debug\QRCoder.dll
+H:\Практика УП 02.01\5 Задание\RAb_5\RAb_5\obj\Debug\RAb_5.csproj.Up2Date
